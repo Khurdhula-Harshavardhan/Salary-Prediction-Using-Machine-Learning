@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #Do not upload large dataset.
-dataset/
+datasets/
 
 # Distribution / packaging
 .Python
